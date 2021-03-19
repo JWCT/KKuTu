@@ -1,3 +1,7 @@
+# 이 끄투는 MRSR 끄투입니다. (원작자 : 애푸르스박#3562 op@jwct.ml, 개발지원 : Danas)
+이 끄투는 MRSR 끄투입니다.
+일부 소스는 공개하였습니다. (Web 이런거 빼고) 
+
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
